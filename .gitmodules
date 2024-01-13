@@ -1,0 +1,6 @@
+[submodule "rules"]
+	path = rules
+	url = git@github.com:toptensoftware/rules
+[submodule "ryu"]
+	path = ryu
+	url = https://github.com/ulfjack/ryu.git
